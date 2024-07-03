@@ -17,7 +17,7 @@
 <br>
 <p align="center">
     Disusun Oleh:<br>
-    Agung Jati Sasmito (119319)
+    Dwi Wijayanto (115976)
 </p>
 <br>
 <p align="center">
